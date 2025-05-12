@@ -1,7 +1,11 @@
 #include <iostream>
 #include <string>
+
+#include "cliente/cliente.h"
+#include "conta/conta.h"
 using namespace std;
 
+/*
 class Cliente {
     private:
     string nome;
@@ -98,6 +102,7 @@ class ContaBancaria {
         titular = cliente_inserido;
         saldo = saldo_inserido;
     };
+*/
 
 int main() {
         // Criação dos clientes
